@@ -603,7 +603,7 @@ img {
 }
 
 .modal-form-input:focus {
-  outline: none;
+  outline: transparent;
   border-color: var(--primary-color);
 }
 
@@ -638,7 +638,7 @@ img {
 }
 
 .modal-form-comment:focus {
-  outline: none;
+  outline: transparent;
   border-color: var(--primary-color);
 }
 
